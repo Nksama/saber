@@ -32,26 +32,26 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1234567890"
+         "value": "825664681"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "halfy"
+         "value": "nk_guy"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "fateunion"
+         "value": "testunion"
       },
       "MESSAGE_DUMP": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001386102878"
       },
       "EVENT_LOGS": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001386102878"
       },      
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
@@ -132,5 +132,5 @@
       "fateunion"
    ],
    "name": "saber",
-   "repository": "https://github.com/hyper-ub/saber-"
+   "repository": "https://github.com/nksama/saber-"
 }
